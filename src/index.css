@@ -7,3 +7,11 @@
     @apply font-primary text-primary;
   }
 }
+@media (max-width: 748px) {
+  .responsive{
+    position: relative;
+    margin-right: 60px;
+  }
+  
+}
+
